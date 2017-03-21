@@ -2,7 +2,7 @@
 
 A boilerplate project I use as a starting point for my React projects.  Now using webpack 2!
 
-First, clone this repo, then:
+First, clone this repo, then in the local directory:
 
 ```npm install```
 
